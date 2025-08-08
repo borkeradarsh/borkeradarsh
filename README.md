@@ -38,9 +38,12 @@
 * Fixed **15+ critical UI rendering bugs** in production, improving page load speed by **40%**.
 
 ### **Video Format Converter**
-A lightweight and fast video format converter built using **Node.js** and **FFmpeg**.  
-- Converts videos between multiple formats (MP4, MKV, AVI, MOV, etc.).  
-- Simple CLI interface for quick use.  
-- Cross-platform support for Windows, macOS, and Linux. 
+A simple Python script for batch converting AVI files to MP4 format using FFmpeg.
+Features:
+- Batch converts all AVI files in a directory to MP4
+- Shows progress bar during conversion
+- Skips already converted files automatically
+- Cross-platform support (Windows, macOS, Linux)
+- Simple command-line interface 
 
 ---
