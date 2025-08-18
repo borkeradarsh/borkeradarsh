@@ -47,3 +47,26 @@ Features:
 - Simple command-line interface 
 
 ---
+
+# PantryAI
+
+An AI-powered recipe suggestion web app built during the IBM TechXchange Hackathon using Watsonx.  
+It helps students and young professionals easily decide what to cook with the ingredients they already have.  
+
+## Features
+- Suggests recipes based on available pantry items  
+- Keeps live track of your ingredients  
+- Offers both **home-cooked** and **professional-style** recipe options  
+- Clean and simple UI built with modern web technologies  
+- Flask backend integrated with IBM Watsonx for AI-driven meal intelligence  
+
+## Tech Stack
+- **Frontend:** React + Tailwind  
+- **Backend:** Flask  
+- **AI:** IBM Watsonx  
+- **Database:** JSON-based storage (lightweight for prototype)  
+
+## Use Case
+Perfect for students in PGs or apartments who struggle to decide what to cook every day.
+
+---
