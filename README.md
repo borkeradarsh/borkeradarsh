@@ -37,6 +37,8 @@
 * Integrated multiple AI & REST APIs, fixed production rendering/performance issues, built analytics views with Recharts.
 * Fixed **15+ critical UI rendering bugs** in production, improving page load speed by **40%**.
 
+---
+  
 ### **Video Format Converter**
 A simple Python script for batch converting AVI files to MP4 format using FFmpeg.
 Features:
